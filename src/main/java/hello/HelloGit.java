@@ -6,6 +6,7 @@ public class HelloGit {
         System.out.println("Hello Git ! I come IEDA!!");
         System.out.println("Hello Git ! I come IEDA!!");
         System.out.println("Hello Git ! I come IEDA!!");
+        System.out.println("Hello Git ! I come IEDA!!");
     }
 
 }
